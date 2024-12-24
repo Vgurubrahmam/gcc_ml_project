@@ -2,3 +2,7 @@ flask
 gunicorn
 sklearn
 pandas
+
+venv\Scripts\activate
+
+python app.py
